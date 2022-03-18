@@ -7,6 +7,5 @@ Cards Pokémon<br/>
 <br>
 <div><img src="https://user-images.githubusercontent.com/80131918/157349357-54ce93fb-be2d-4a9c-9c5c-33f1d4be5f8f.png" width="700px"></div>
 <br>
-<br>
 Acesse:
 https://oliver-igor.github.io/PokeDex/
